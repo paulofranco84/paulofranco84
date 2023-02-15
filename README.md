@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulofranco84
 - 👀 I’m interested in learn new tecnologies
-- 🌱 I’m currently learning PHP, CodeIgnite and Python.
+- 🌱 I’m currently learning PHP, CodeIgniter and Python.
 - 📫 paulinhofranco@gmail.com
 
 <!---
